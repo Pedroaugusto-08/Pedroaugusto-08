@@ -17,7 +17,7 @@ Front-end:
 
 ### Minhas Estatísticas
 
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Pedroaugusto-08&theme=tokyonight)
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Pedroaugusto-08&theme=cyberpunk)
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedroaugusto-08&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
