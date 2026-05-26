@@ -24,4 +24,4 @@ Front-end:
 
 ### Meu Gráfico de Contribuições
 
-![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=Pedroaugusto-08&theme=tokyonight)
+![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=Pedroaugusto-08&theme=dracula)
