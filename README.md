@@ -1,4 +1,4 @@
-FERRAMENTAS UTILIZADAS
+### Ferramentas Utilizadas
 
 Back-end:
 <div id="badges">
@@ -12,4 +12,12 @@ Front-end:
 <div id="badges2">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+Markdown
+### Minhas Estatísticas
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedroaugusto-08&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroaugusto-08&layout=compact&theme=gotham" />
 </div>
