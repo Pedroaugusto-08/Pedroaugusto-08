@@ -1,7 +1,7 @@
 # Eae? Sou o Pedro Augusto, muito prazer!
 ### Veja meus projetos e atividades que posto, você pode curtir!
 
-### Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 Back-end:
 <div id="badges">
@@ -18,13 +18,13 @@ Front-end:
 </div>
 
 
-### Minhas Estatísticas
+## Minhas Estatísticas
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Pedroaugusto-08&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pedroaugusto-08&layout=compact&theme=gotham" />
 </div>
 
-### Meu Gráfico de Contribuições
+## Meu Gráfico de Contribuições
 
 ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=Pedroaugusto-08&theme=gotham)
