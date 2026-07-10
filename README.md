@@ -1,5 +1,5 @@
-<h1>Eae? Sou o Pedro Augusto, muito prazer!<h1/>
-Veja meus projetos e atividades que posto, você pode curtir!
+#Eae? Sou o Pedro Augusto, muito prazer!
+###Veja meus projetos e atividades que posto, você pode curtir!
 
 ### Ferramentas Utilizadas
 
