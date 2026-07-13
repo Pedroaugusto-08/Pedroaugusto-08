@@ -29,7 +29,7 @@ Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de exp
 
 ## Microsoft 365:
 <div id="badges4">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg" height="40" alt="SharePoint logo"/>
+  <img src="https://img.icons8.com/color/96/sharepoint.png" height="40" alt="SharePoint logo"/>
 </div>
 
 ## Minhas Estatísticas
