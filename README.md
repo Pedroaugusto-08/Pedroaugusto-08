@@ -27,6 +27,11 @@ Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
+## Microsoft 365:
+<div id="badges4">
+  <img src="https://cdn.simpleicons.org/microsoftsharepoint" height="40" alt="SharePoint logo"/>
+</div>
+
 ## Minhas Estatísticas
 
 <div align="center">
