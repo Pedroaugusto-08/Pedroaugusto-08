@@ -28,10 +28,9 @@ Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de exp
 </div>
 
 ## Microsoft 365:
-## Microsoft 365:
 <div id="badges4">
-  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" height="40" alt="SharePoint     logo"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-F25022?style=for-the-badge&logo=microsoft&logoColor=white" height="40" alt="Microsoft logo"/>
+  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" height="40" alt="SharePoint logo"/>
+  <img src="https://skillicons.dev/icons?i=microsoft" height="40" alt="Microsoft logo"/>
 </div>
 
 ## Minhas Estatísticas
