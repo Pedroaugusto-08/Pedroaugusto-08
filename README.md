@@ -27,9 +27,8 @@ Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
-## Microsoft 365:
+## Cloud & Colaboração:
 <div id="badges4">
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" height="40" alt="SharePoint logo"/>
   <img src="https://img.shields.io/badge/Microsoft_365-F25022?style=for-the-badge&logo=microsoft&logoColor=white" height="40" alt="Microsoft logo"/>
 </div>
 
