@@ -69,3 +69,9 @@ Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de exp
 ## Meu Gráfico de Contribuições
 
 ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=Pedroaugusto-08&theme=gotham)
+
+## Contato
+
+### Linkedin: 
+### Instagram: 
+### E-mail: >pedroamrosa.7@gmail.com
