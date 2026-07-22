@@ -8,7 +8,7 @@ Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de exp
 
 ## Projetos em Destaque
 
-### Sistema de Estoque
+### Sistema de Cards
 > Sistema CRUD completo com login, cadastro de produtos e banco MySQL.
 
 **Tecnologias:** Javascript • MySQL • HTML • CSS
