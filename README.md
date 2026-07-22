@@ -1,7 +1,29 @@
-# Pedro Augusto
-### Desenvolvedor Jr | PHP • Python • HTML • CSS
+# <h1 align="center">Olá, eu sou Pedro Augusto 👋</h1>
+
+<p align="center">
+Desenvolvedor Jr em constante evolução, criando soluções com Python, desenvolvimento Web, JavaScript e automações utilizando n8n.
+</p>
 
 Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de explorar diferentes áreas da TI e transformar ideias em projetos. Neste perfil compartilho meus estudos, projetos pessoais e experimentos que fazem parte da minha jornada como desenvolvedor.
+
+## Projetos em Destaque
+
+### Sistema de Estoque
+> Sistema CRUD completo com login, cadastro de produtos e banco MySQL.
+
+**Tecnologias:** Javascript • MySQL • HTML • CSS
+
+🔗 https://github.com/Pedroaugusto-08/...
+
+---
+
+### Automações n8n
+> Fluxos para integração entre APIs, Discord e Telegram.
+
+**Tecnologias:** n8n • Webhooks • APIs
+
+[🔗 https://github.com/Pedroaugusto-08/...
+](https://github.com/Pedroaugusto-08/Primeiro-disparador-de-mensagem)
 
 ## Ferramentas Utilizadas
 
@@ -22,10 +44,14 @@ Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
 </div>
 
-### Ferramentas:
+### Ferramentas & DevOps:
 <div id="badges3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
 ## Cloud & Colaboração:
