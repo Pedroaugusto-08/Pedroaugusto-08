@@ -11,7 +11,7 @@ Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="40" alt="n8n logo"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo"/>
 </div>
 
 ### Front-end:
