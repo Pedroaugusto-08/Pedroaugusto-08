@@ -74,4 +74,4 @@ Apaixonado por tecnologia e sempre curioso para aprender algo novo, gosto de exp
 
 ### Linkedin: 
 ### Instagram: 
-### E-mail: >pedroamrosa.7@gmail.com
+### E-mail: pedroamrosa.7@gmail.com
